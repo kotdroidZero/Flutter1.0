@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "926726241799",
+    "firebase_url": "https://flutter-oneo.firebaseio.com",
+    "project_id": "flutter-oneo",
+    "storage_bucket": "flutter-oneo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926726241799:android:1319bc320bef7424b474a2",
+        "android_client_info": {
+          "package_name": "com.example.helloworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926726241799-ei3aq1nfhjknmlangnbkk934ldn6mh12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2KpN6UFL3TIh0BbLko-V9OqJ1nOvVanQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926726241799-ei3aq1nfhjknmlangnbkk934ldn6mh12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
